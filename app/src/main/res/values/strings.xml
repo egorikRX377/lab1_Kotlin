@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="full_name">Иванов Иван Иванович</string> <!-- Ваше ФИО -->
+</resources>
